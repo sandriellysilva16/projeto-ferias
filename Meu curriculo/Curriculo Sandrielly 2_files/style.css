@@ -1,0 +1,61 @@
+.foto-perfil{ 
+  border-radius: 100%;  
+  max-width: 200px;
+  border: 1px solid rgb(238, 137, 137);  
+}
+
+body{
+    background-color: rgb(243, 160, 160);
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+div {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 20px;
+}
+
+h2, h3, p, ul, li {
+    padding-top: 10px;
+}
+
+div.perfil {
+    background-color: rgb(245, 225, 217);
+    text-align: center;
+}
+
+div.resumo {
+    background-color: rgb(248, 182, 182);
+    text-align: center;
+}
+
+a.button {
+    color: rgb(8, 7, 7) (2, 2, 2);
+    text-align: center;
+    border-radius: 3px;
+    text-decoration: none;
+}
+
+img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+h2 {
+    color: rgb(19, 36, 129);
+}
+
+hr {
+    background-color: rgb(19, 36, 129);
+    height: 3px;
+}
+
+h3 {
+    color:rgb blue (19, 36, 129);
+}
